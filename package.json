@@ -23,6 +23,7 @@
   "homepage": "https://github.com/Premiurly/covalentjs#readme",
   "dependencies": {
     "axios": "^0.21.1",
+    "covalentjs": "github:AlchemistsLab/covalentjs",
     "debug": "^4.3.1"
   }
 }
